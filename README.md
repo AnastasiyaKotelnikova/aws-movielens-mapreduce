@@ -6,7 +6,7 @@ This project demonstrates the setup and execution of a Hadoop MapReduce job on A
 
 ##  Project Overview
 
-We deployed a two-node Hadoop cluster (Master + Slave) on AWS EC2 and executed a MapReduce job to identify the most rated movies from the MovieLens dataset using custom Java classes.
+I deployed a two-node Hadoop cluster (Master + Slave) on AWS EC2 and executed a MapReduce job to identify the most rated movies from the MovieLens dataset using custom Java classes.
 
 ---
 
@@ -77,7 +77,8 @@ The program successfully completed all MapReduce phases without error:
 
 ## Challenges & Learnings
 
-- Faced SSH connection issues due to firewall/port settings — resolved by updating security group rules on EC2
+- Faced SSH connection issues due to firewall/port settings — resolved by updating security group
+  rules on EC2
 - Understood how to format namenodes and start daemons using `start-dfs.sh` and `jps`
 - Learned how to compile and run custom MapReduce jobs using `hadoop jar`
 
@@ -87,5 +88,5 @@ The program successfully completed all MapReduce phases without error:
 
 **Anastasiya Kotelnikova**  
 Master’s Student in Data Science at NJIT  
-Email: [anastasiya.kotelnikova21@gmail.com](mailto:anastasiya.kotelnikova21@gmail.com)
+Email: [anastasiyakotelnikova21@gmail.com]
 
