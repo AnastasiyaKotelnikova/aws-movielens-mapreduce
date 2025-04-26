@@ -57,7 +57,6 @@ aws-movielens-mapreduce/
 
 ## Output Sample
 
-```bash
 hdfs dfs -cat /output/part-r-00000
 1193    1
 661     1
