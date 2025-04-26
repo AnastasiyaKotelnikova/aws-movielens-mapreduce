@@ -88,7 +88,8 @@ The program successfully completed all MapReduce phases without error:
 
 **Anastasiya Kotelnikova**  
 Master’s Student in Data Science at NJIT  
-Email: [anastasiyakotelnikova21@gmail.com]
+Email: [anastasiyakotelnikova21@gmail.com](mailto:anastasiyakotelnikova21@gmail.com)  
 [GitHub Profile](https://github.com/AnastasiyaKotelnikova) • [Portfolio Website](https://anastasiyakotelnikova.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova/)
+
 
 
